@@ -1,2 +1,2 @@
-# UESTC-OperationSystem-Exp
-About OperationSystem's Shell
+# UESTC-OperatingSystem-Exp
+About OperatingSystem's Shell
